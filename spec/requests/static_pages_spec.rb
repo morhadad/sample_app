@@ -26,8 +26,6 @@ describe "StaticPages" do
 
     it { should have_selector( 'h1', text: 'Help' ) }
 
-
-
   end
 
   describe "About page" do
